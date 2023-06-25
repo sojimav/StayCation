@@ -1,683 +1,683 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Hotel.bundle.scp.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Hotel.bundle.scp.css",
       "PackagePath": "staticwebassets\\Hotel.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\css\\Signup.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\css\\Signup.css",
       "PackagePath": "staticwebassets\\css\\Signup.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\about-img.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\about-img.jpg",
       "PackagePath": "staticwebassets\\img\\about-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\apple-touch-icon.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\apple-touch-icon.png",
       "PackagePath": "staticwebassets\\img\\apple-touch-icon.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\favicon.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\favicon.png",
       "PackagePath": "staticwebassets\\img\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\features-1.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\features-1.png",
       "PackagePath": "staticwebassets\\img\\features-1.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\features-2.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\features-2.png",
       "PackagePath": "staticwebassets\\img\\features-2.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\features-3.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\features-3.png",
       "PackagePath": "staticwebassets\\img\\features-3.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\features-4.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\features-4.png",
       "PackagePath": "staticwebassets\\img\\features-4.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\first-img.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\first-img.jpg",
       "PackagePath": "staticwebassets\\img\\first-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\hero-bg.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\hero-bg.jpg",
       "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\log.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\log.jpg",
       "PackagePath": "staticwebassets\\img\\log.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (10).png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (10).png",
       "PackagePath": "staticwebassets\\img\\new\\Rectangle 3 (10).png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (11).png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (11).png",
       "PackagePath": "staticwebassets\\img\\new\\Rectangle 3 (11).png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (12).png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (12).png",
       "PackagePath": "staticwebassets\\img\\new\\Rectangle 3 (12).png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (13).png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (13).png",
       "PackagePath": "staticwebassets\\img\\new\\Rectangle 3 (13).png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (14).png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (14).png",
       "PackagePath": "staticwebassets\\img\\new\\Rectangle 3 (14).png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (15).png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (15).png",
       "PackagePath": "staticwebassets\\img\\new\\Rectangle 3 (15).png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (16).png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (16).png",
       "PackagePath": "staticwebassets\\img\\new\\Rectangle 3 (16).png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (17).png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (17).png",
       "PackagePath": "staticwebassets\\img\\new\\Rectangle 3 (17).png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (4).png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (4).png",
       "PackagePath": "staticwebassets\\img\\new\\Rectangle 3 (4).png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (5).png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (5).png",
       "PackagePath": "staticwebassets\\img\\new\\Rectangle 3 (5).png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (6).png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (6).png",
       "PackagePath": "staticwebassets\\img\\new\\Rectangle 3 (6).png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (7).png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (7).png",
       "PackagePath": "staticwebassets\\img\\new\\Rectangle 3 (7).png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (8).png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (8).png",
       "PackagePath": "staticwebassets\\img\\new\\Rectangle 3 (8).png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (9).png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\Rectangle 3 (9).png",
       "PackagePath": "staticwebassets\\img\\new\\Rectangle 3 (9).png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\a.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\a.jpg",
       "PackagePath": "staticwebassets\\img\\new\\a.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\aa.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\aa.png",
       "PackagePath": "staticwebassets\\img\\new\\aa.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\b.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\b.jpg",
       "PackagePath": "staticwebassets\\img\\new\\b.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\banner.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\banner.png",
       "PackagePath": "staticwebassets\\img\\new\\banner.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\c.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\c.jpg",
       "PackagePath": "staticwebassets\\img\\new\\c.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\camera.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\camera.png",
       "PackagePath": "staticwebassets\\img\\new\\camera.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\cc.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\cc.png",
       "PackagePath": "staticwebassets\\img\\new\\cc.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\dc.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\dc.png",
       "PackagePath": "staticwebassets\\img\\new\\dc.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\ds.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\ds.png",
       "PackagePath": "staticwebassets\\img\\new\\ds.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\e.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\e.jpg",
       "PackagePath": "staticwebassets\\img\\new\\e.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\er.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\er.png",
       "PackagePath": "staticwebassets\\img\\new\\er.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\f.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\f.jpg",
       "PackagePath": "staticwebassets\\img\\new\\f.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\ft.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\ft.png",
       "PackagePath": "staticwebassets\\img\\new\\ft.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\g.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\g.jpg",
       "PackagePath": "staticwebassets\\img\\new\\g.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\gg.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\gg.png",
       "PackagePath": "staticwebassets\\img\\new\\gg.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\h.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\h.jpg",
       "PackagePath": "staticwebassets\\img\\new\\h.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\jj.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\jj.png",
       "PackagePath": "staticwebassets\\img\\new\\jj.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\l.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\l.jpg",
       "PackagePath": "staticwebassets\\img\\new\\l.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\last.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\last.png",
       "PackagePath": "staticwebassets\\img\\new\\last.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\lastfoto.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\lastfoto.png",
       "PackagePath": "staticwebassets\\img\\new\\lastfoto.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\location.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\location.png",
       "PackagePath": "staticwebassets\\img\\new\\location.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\ny.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\ny.png",
       "PackagePath": "staticwebassets\\img\\new\\ny.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\o.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\o.jpg",
       "PackagePath": "staticwebassets\\img\\new\\o.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\oc.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\oc.png",
       "PackagePath": "staticwebassets\\img\\new\\oc.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\overlay.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\overlay.png",
       "PackagePath": "staticwebassets\\img\\new\\overlay.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\overlay1.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\overlay1.png",
       "PackagePath": "staticwebassets\\img\\new\\overlay1.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\p.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\p.jpg",
       "PackagePath": "staticwebassets\\img\\new\\p.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\picture.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\picture.png",
       "PackagePath": "staticwebassets\\img\\new\\picture.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\po.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\po.png",
       "PackagePath": "staticwebassets\\img\\new\\po.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\q.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\q.jpg",
       "PackagePath": "staticwebassets\\img\\new\\q.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\r.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\r.jpg",
       "PackagePath": "staticwebassets\\img\\new\\r.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\re.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\re.png",
       "PackagePath": "staticwebassets\\img\\new\\re.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\roo.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\roo.png",
       "PackagePath": "staticwebassets\\img\\new\\roo.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\star.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\star.png",
       "PackagePath": "staticwebassets\\img\\new\\star.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\stars.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\stars.png",
       "PackagePath": "staticwebassets\\img\\new\\stars.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\t.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\t.jpg",
       "PackagePath": "staticwebassets\\img\\new\\t.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\travel.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\travel.png",
       "PackagePath": "staticwebassets\\img\\new\\travel.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\vv.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\vv.png",
       "PackagePath": "staticwebassets\\img\\new\\vv.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\w.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\w.jpg",
       "PackagePath": "staticwebassets\\img\\new\\w.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\wq.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\wq.png",
       "PackagePath": "staticwebassets\\img\\new\\wq.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\x.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\x.jpg",
       "PackagePath": "staticwebassets\\img\\new\\x.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\y.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\y.jpg",
       "PackagePath": "staticwebassets\\img\\new\\y.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\new\\yy.png",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\new\\yy.png",
       "PackagePath": "staticwebassets\\img\\new\\yy.png"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\portfolio\\portfolio-1.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\portfolio\\portfolio-1.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\portfolio\\portfolio-2.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\portfolio\\portfolio-2.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\portfolio\\portfolio-3.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\portfolio\\portfolio-3.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\portfolio\\portfolio-4.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\portfolio\\portfolio-4.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\portfolio\\portfolio-5.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\portfolio\\portfolio-5.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\portfolio\\portfolio-6.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\portfolio\\portfolio-6.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-6.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\portfolio\\portfolio-7.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\portfolio\\portfolio-7.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-7.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\portfolio\\portfolio-8.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\portfolio\\portfolio-8.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-8.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\portfolio\\portfolio-9.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\portfolio\\portfolio-9.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-9.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\portfolio\\portfolio-details-1.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\portfolio\\portfolio-details-1.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-details-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\portfolio\\portfolio-details-2.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\portfolio\\portfolio-details-2.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-details-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\portfolio\\portfolio-details-3.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\portfolio\\portfolio-details-3.jpg",
       "PackagePath": "staticwebassets\\img\\portfolio\\portfolio-details-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\slide\\slide-17.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\slide\\slide-17.jpg",
       "PackagePath": "staticwebassets\\img\\slide\\slide-17.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\team\\team-1.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\team\\team-1.jpg",
       "PackagePath": "staticwebassets\\img\\team\\team-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\team\\team-2.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\team\\team-2.jpg",
       "PackagePath": "staticwebassets\\img\\team\\team-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\team\\team-3.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\team\\team-3.jpg",
       "PackagePath": "staticwebassets\\img\\team\\team-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\team\\team-4.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\team\\team-4.jpg",
       "PackagePath": "staticwebassets\\img\\team\\team-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\testimonials\\testimonials-1.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\testimonials\\testimonials-1.jpg",
       "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-1.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\testimonials\\testimonials-2.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\testimonials\\testimonials-2.jpg",
       "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-2.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\testimonials\\testimonials-3.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\testimonials\\testimonials-3.jpg",
       "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-3.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\testimonials\\testimonials-4.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\testimonials\\testimonials-4.jpg",
       "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-4.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\testimonials\\testimonials-5.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\testimonials\\testimonials-5.jpg",
       "PackagePath": "staticwebassets\\img\\testimonials\\testimonials-5.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\img\\vacation.jpg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\img\\vacation.jpg",
       "PackagePath": "staticwebassets\\img\\vacation.jpg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\js\\main.js",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\js\\main.js",
       "PackagePath": "staticwebassets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.cjs.js",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.cjs.js",
       "PackagePath": "staticwebassets\\lib\\vendor\\aos\\aos.cjs.js"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\aos\\aos.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.esm.js",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.esm.js",
       "PackagePath": "staticwebassets\\lib\\vendor\\aos\\aos.esm.js"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.js",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.js",
       "PackagePath": "staticwebassets\\lib\\vendor\\aos\\aos.js"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.js.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.js.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\aos\\aos.js.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\css\\animations.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\css\\animations.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\css\\animations.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\css\\boxicons.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\css\\boxicons.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\css\\boxicons.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\css\\boxicons.min.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\css\\boxicons.min.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\css\\boxicons.min.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\css\\transformations.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\css\\transformations.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\css\\transformations.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.eot",
       "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\fonts\\boxicons.eot"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.svg",
       "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\fonts\\boxicons.svg"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.ttf",
       "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\fonts\\boxicons.ttf"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.woff",
       "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\fonts\\boxicons.woff"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.woff2",
       "PackagePath": "staticwebassets\\lib\\vendor\\boxicons\\fonts\\boxicons.woff2"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\css\\glightbox.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\css\\glightbox.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\glightbox\\css\\glightbox.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\css\\glightbox.min.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\css\\glightbox.min.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\glightbox\\css\\glightbox.min.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\css\\plyr.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\css\\plyr.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\glightbox\\css\\plyr.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\css\\plyr.min.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\css\\plyr.min.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\glightbox\\css\\plyr.min.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\js\\glightbox.js",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\js\\glightbox.js",
       "PackagePath": "staticwebassets\\lib\\vendor\\glightbox\\js\\glightbox.js"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\js\\glightbox.min.js",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\js\\glightbox.min.js",
       "PackagePath": "staticwebassets\\lib\\vendor\\glightbox\\js\\glightbox.min.js"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\isotope-layout\\isotope.pkgd.js",
       "PackagePath": "staticwebassets\\lib\\vendor\\isotope-layout\\isotope.pkgd.js"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\isotope-layout\\isotope.pkgd.min.js",
       "PackagePath": "staticwebassets\\lib\\vendor\\isotope-layout\\isotope.pkgd.min.js"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.css",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.css",
       "PackagePath": "staticwebassets\\lib\\vendor\\swiper\\swiper-bundle.min.css"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.js",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\vendor\\swiper\\swiper-bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\week-6-sojimav\\StayCation\\wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "Id": "C:\\Users\\Decagon\\OneDrive\\Desktop\\StayCation\\StayCation\\wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\vendor\\swiper\\swiper-bundle.min.js.map"
     },
     {

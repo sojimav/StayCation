@@ -18,19 +18,17 @@ namespace Hotel.Controllers
 			var Allproperties = ReadFromPropertyFile("Database.txt");
 
 			var mostpicks = Allproperties.Where(row => row.Group == "Most picks").ToList();
+			var backyards = Allproperties.Where(row => row.Group == "Houses with beautiful Backyards").ToList();
 			ViewData["mostpicks"] = mostpicks;
+			ViewData["backyards"] = backyards;
 
 			var first_mostpicks = mostpicks.FirstOrDefault();
-            ViewData["first_mostpicks"] =first_mostpicks;
+			var first_backyard = backyards.FirstOrDefault();
+            ViewData["first_mostpicks"] = first_mostpicks;
+			ViewData["first_backyards"] = first_backyard;
 
             return View();
         }
-
-
-
-
-
-
 
 
 

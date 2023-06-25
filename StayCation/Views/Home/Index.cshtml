@@ -2,6 +2,8 @@
     ViewData["Title"] = "Home Page";
     var mostpicks = ViewData["mostpicks"] as List<Property>;
     var first_mostpicks = ViewData["first_mostpicks"] as Property;
+    var backyards = ViewData["backyards"] as List<Property>;
+    var firstbackyard = ViewData["first_backyards"] as Property;
 }
 
 
@@ -80,7 +82,7 @@
       <div class="container">
           <div class="row">
             <div class="col">
-                <h4>Most Picks</h4>
+                <h4>@first_mostpicks.Group</h4>
               </div>
           </div>
         
@@ -130,13 +132,13 @@
     </section><!-- End Most Picks -->
 
 
-
+   
     <!-- ======= Houses with beauty Backyards ======= -->
    <section id="steps" class="steps section-bg">
     <div class="container">
         <div class="row">
             <div class="col">
-                <h4>Houses with beautiful Backyards</h4>
+                <h4>@backyards[0].Group</h4>
             </div>
         </div>
 
@@ -144,6 +146,7 @@
         <div style="display:flex;flex-direction:row;justify-content:space-between;text-align:center">
 
           <div class=" row no-gutters">
+             
                 <div class="col-lg-3 col-md-6" data-aos="fade-left" data-aos-delay="100">
                     <div style="position:relative;">
                         <img src="~/img/new/vv.png" class="img-fluid" alt="" style="border-radius:20px;height:30vh;width:250vw" data-aos="fade-in">
