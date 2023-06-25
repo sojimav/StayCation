@@ -1,0 +1,60 @@
+﻿@{
+	ViewData["Title"] = "Sign Up";
+}
+
+
+<head>
+	<link rel="stylesheet" href="~/css/Signup.css" asp-append-version="true" />
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+
+
+<body class="img js-fullheight" style="background-image: url(@Url.Content( "~/img/log.jpg"));">
+	<section class="ftco-section">
+		<div class="container">
+
+			<div class="row justify-content-center">
+				<div class="col-md-6 col-lg-4">
+					<div class="login-wrap p-0">
+						<h3 class="mb-4 text-center">Create an account</h3>
+
+						<!--Sign uP Form-->
+						<form action="#" class="signin-form">
+							@Html.AntiForgeryToken()
+							<div class="form-group">
+								<input type="text" class="form-control" placeholder="Full name" required>
+							</div>
+							<div class="form-group">
+								<input type="email" class="form-control" placeholder="Email" required>
+							</div>
+							<div class="form-group">
+								<input id="password-field" type="password" class="form-control" placeholder="Password" required>
+								<span toggle="#password-field" class="fa fa-fw fa-eye field-icon toggle-password"></span>
+							</div>
+							<div class="form-group">
+								<input id="password-field2" type="password" class="form-control" placeholder="Confirm Password" required>
+
+							</div>
+							<div class="form-group">
+								<button type="submit" class="form-control btn btn-primary submit px-3">Sign Up</button>
+							</div>
+
+						</form>
+						<p class="w-100 text-center">&mdash; Or Sign Up With &mdash;</p>
+						<div class="social d-flex text-center">
+							<a href="#" class="px-2 py-2 mr-md-1 rounded"><span class="ion-logo-facebook mr-2"></span> Facebook</a>
+							<a href="#" class="px-2 py-2 ml-md-1 rounded"><span class="ion-logo-twitter mr-2"></span> Google</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<script src="~/js/jquery.min.js"></script>
+	<script src="~/js/popper.js"></script>
+	<script src="~/js/bootstrap.min.js"></script>
+	<script src="~/js/main.js"></script>
+
+</body>

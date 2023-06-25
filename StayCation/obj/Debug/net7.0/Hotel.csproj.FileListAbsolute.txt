@@ -1,0 +1,95 @@
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\bin\Debug\net7.0\appsettings.json
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\bin\Debug\net7.0\Hotel.staticwebassets.runtime.json
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\bin\Debug\net7.0\Hotel.exe
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\bin\Debug\net7.0\Hotel.deps.json
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\bin\Debug\net7.0\Hotel.runtimeconfig.json
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\bin\Debug\net7.0\Hotel.dll
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\bin\Debug\net7.0\Hotel.pdb
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\Hotel.csproj.AssemblyReference.cache
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\Hotel.AssemblyInfoInputs.cache
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\Hotel.AssemblyInfo.cs
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\Hotel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\Hotel.RazorAssemblyInfo.cache
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\Hotel.RazorAssemblyInfo.cs
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\staticwebassets\msbuild.Hotel.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\staticwebassets\msbuild.build.Hotel.props
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Hotel.props
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Hotel.props
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\scopedcss\bundle\Hotel.styles.css
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\scopedcss\projectbundle\Hotel.bundle.scp.css
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\Hotel.dll
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\refint\Hotel.dll
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\Hotel.pdb
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\Hotel.genruntimeconfig.cache
+C:\Users\Decagon Laptop\Pictures\week-6-Unekwu001\Hotel\obj\Debug\net7.0\ref\Hotel.dll
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\bin\Debug\net7.0\appsettings.json
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\bin\Debug\net7.0\Hotel.staticwebassets.runtime.json
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\bin\Debug\net7.0\Hotel.exe
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\bin\Debug\net7.0\Hotel.deps.json
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\bin\Debug\net7.0\Hotel.runtimeconfig.json
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\bin\Debug\net7.0\Hotel.dll
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\bin\Debug\net7.0\Hotel.pdb
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\Hotel.csproj.AssemblyReference.cache
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\Hotel.AssemblyInfoInputs.cache
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\Hotel.AssemblyInfo.cs
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\Hotel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\Hotel.RazorAssemblyInfo.cache
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\Hotel.RazorAssemblyInfo.cs
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\staticwebassets\msbuild.Hotel.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\staticwebassets\msbuild.build.Hotel.props
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Hotel.props
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Hotel.props
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\scopedcss\bundle\Hotel.styles.css
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\scopedcss\projectbundle\Hotel.bundle.scp.css
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\Hotel.dll
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\refint\Hotel.dll
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\Hotel.pdb
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\Hotel.genruntimeconfig.cache
+C:\Users\Decagon\Downloads\StayCationHotel\week-6-Unekwu001-main\Hotel\obj\Debug\net7.0\ref\Hotel.dll
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\bin\Debug\net7.0\appsettings.json
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\bin\Debug\net7.0\Hotel.staticwebassets.runtime.json
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\bin\Debug\net7.0\Hotel.exe
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\bin\Debug\net7.0\Hotel.deps.json
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\bin\Debug\net7.0\Hotel.runtimeconfig.json
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\bin\Debug\net7.0\Hotel.dll
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\bin\Debug\net7.0\Hotel.pdb
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\Hotel.csproj.AssemblyReference.cache
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\Hotel.AssemblyInfoInputs.cache
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\Hotel.AssemblyInfo.cs
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\Hotel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\Hotel.RazorAssemblyInfo.cache
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\Hotel.RazorAssemblyInfo.cs
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\staticwebassets\msbuild.Hotel.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\staticwebassets\msbuild.build.Hotel.props
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Hotel.props
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Hotel.props
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\scopedcss\bundle\Hotel.styles.css
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\scopedcss\projectbundle\Hotel.bundle.scp.css
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\Hotel.dll
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\refint\Hotel.dll
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\Hotel.pdb
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\Hotel.genruntimeconfig.cache
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\ref\Hotel.dll
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\scopedcss\Views\Register\Login.cshtml.rz.scp.css
+C:\Users\Decagon\OneDrive\Desktop\week-6-sojimav\StayCation\obj\Debug\net7.0\scopedcss\Views\Register\Signup.cshtml.rz.scp.css
