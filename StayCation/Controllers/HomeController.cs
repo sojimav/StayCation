@@ -20,9 +20,11 @@ namespace Hotel.Controllers
 			var mostpicks = Allproperties.Where(row => row.Group == "Most picks").ToList();
 			var backyards = Allproperties.Where(row => row.Group == "Houses with beautiful Backyards").ToList();
 			var largeLivingRooms = Allproperties.Where(row => row.Group == "Hotels with large living rooms").ToList();
+			var KitchenSets = Allproperties.Where(row => row.Group == "Apartments with Kitchen set").ToList();
 			ViewData["mostpicks"] = mostpicks;
 			ViewData["backyards"] = backyards;
 			ViewData["livingrooms"] = largeLivingRooms;
+			ViewData["kitchensets"] = KitchenSets;
 
 			var first_mostpicks = mostpicks.FirstOrDefault();
 			var first_backyard = backyards.FirstOrDefault();

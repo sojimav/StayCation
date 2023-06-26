@@ -4,7 +4,7 @@
     var first_mostpicks = ViewData["first_mostpicks"] as Property;
     var backyards = ViewData["backyards"] as List<Property>;
     var largeLivingRooms = ViewData["livingrooms"] as List<Property>;
-    
+    var kitchenSets = ViewData["kitchensets"] as List<Property>;
 
 }
 
@@ -263,7 +263,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h4>Apartments with Kitchen set</h4>
+                <h4>@kitchenSets[0].Group</h4>
             </div>
         </div>
 
@@ -272,13 +272,24 @@
 
             <div class=" row no-gutters">
 
-                <div class="col-lg-3 col-md-6 " data-aos="fade-right" data-aos-delay="100">
-                    <img src="~/img/new/ds.png" class="img-fluid" alt="" width="inherit" height="inherit" style=" border-radius:20px;height:30vh;width:250vw;" data-aos="fade-in">
-                    <h6>PS Wood</h6>
-                    <p>Depok, Indonesia</p>
-                </div>
+                @foreach(var item in kitchenSets)
+                {
+                    <div class="col-lg-3 col-md-6 position-relative" data-aos="fade-right" data-aos-delay="100">
+                        <img src="~/img/new/@item.Image" class="img-fluid" alt="" width="inherit" height="inherit" style=" border-radius:20px;height:30vh;width:250vw;" data-aos="fade-in">
 
-                <div class="col-lg-3 col-md-6 " data-aos="fade-left" data-aos-delay="100">
+                        @if(item.Popularity == "Popular choice")
+                        {
+                            <span style="position:absolute; top:10px; right:10px; background-color:deeppink; padding:5px 10px; border-radius:10px; color:white; font-weight:bold;">@item.Popularity</span>
+                        }
+                        <h6>@item.NameOfProp</h6>
+                        <p>@item.Location, Indonesia</p>
+                    </div>
+                }
+
+            </div>
+
+
+            @* <div class="col-lg-3 col-md-6 " data-aos="fade-left" data-aos-delay="100">
                     <img src="~/img/new/dc.png" class="img-fluid" alt="" width="inherit" height="inherit" style=" border-radius:20px;height:30vh;width:250vw;" data-aos="fade-in">
                     <h6>One Five</h6>
                     <p>Jakarta, Indonesia</p>
@@ -299,11 +310,7 @@
                     <img src="~/img/new/re.png" class="img-fluid" alt="" width="inherit" height="inherit" style=" border-radius:20px;height:30vh;width:250vw;" data-aos="fade-in">
                     <h6>Stays Home</h6>
                     <p>Wonosoba, Indonesia</p>
-                </div>
-
-
-            </div>
-
+                </div>*@
 
         </div>
 
