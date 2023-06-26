@@ -1,11 +1,13 @@
-﻿@{
+﻿@*@model Hotel.Models.Category
+*@
+
+@{
     ViewData["Title"] = "Home Page";
     var mostpicks = ViewData["mostpicks"] as List<Property>;
     var first_mostpicks = ViewData["first_mostpicks"] as Property;
     var backyards = ViewData["backyards"] as List<Property>;
     var largeLivingRooms = ViewData["livingrooms"] as List<Property>;
     var kitchenSets = ViewData["kitchensets"] as List<Property>;
-
 }
 
 
@@ -84,7 +86,7 @@
       <div class="container">
           <div class="row">
             <div class="col">
-                <h4>@first_mostpicks.Group</h4>
+                <h4>@first_mostpicks.</h4>
               </div>
           </div>
         

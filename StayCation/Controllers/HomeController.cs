@@ -21,6 +21,9 @@ namespace Hotel.Controllers
 			var backyards = Allproperties.Where(row => row.Group == "Houses with beautiful Backyards").ToList();
 			var largeLivingRooms = Allproperties.Where(row => row.Group == "Hotels with large living rooms").ToList();
 			var KitchenSets = Allproperties.Where(row => row.Group == "Apartments with Kitchen set").ToList();
+
+			Category category =  new Category(mostpicks, backyards, largeLivingRooms, KitchenSets);
+
 			ViewData["mostpicks"] = mostpicks;
 			ViewData["backyards"] = backyards;
 			ViewData["livingrooms"] = largeLivingRooms;
