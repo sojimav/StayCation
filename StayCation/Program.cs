@@ -1,7 +1,11 @@
+using Hotel.Interface;
+using Hotel.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddScoped<IReader, Reader>();
 
 var app = builder.Build();
 
