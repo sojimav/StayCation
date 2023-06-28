@@ -1,4 +1,6 @@
-﻿namespace Hotel.Models
+﻿using Hotel.Interface;
+
+namespace Hotel.Models
 {
     public class Category
     {

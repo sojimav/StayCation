@@ -1,5 +1,6 @@
 ﻿@{
 	ViewData["Title"] = "Sign Up";
+	@model Hotel.Models.User;
 }
 
 
@@ -23,7 +24,8 @@
 						<form action="#" class="signin-form">
 							@Html.AntiForgeryToken()
 							<div class="form-group">
-								<input type="text" class="form-control" placeholder="Full name" required>
+								@*<input type="text" class="form-control" placeholder="Full name" required>*@
+								@Html.TextBoxFor(model => model.FullName, new { @class = "form-control", placeholder = "Full name", required = "required" })
 							</div>
 							<div class="form-group">
 								<input type="email" class="form-control" placeholder="Email" required>

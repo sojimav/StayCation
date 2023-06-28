@@ -27,15 +27,15 @@ namespace Hotel.Controllers
 
 			Category category =  new Category(mostpicks, backyards, largeLivingRooms, KitchenSets);
 
-			//ViewData["mostpicks"] = mostpicks;
-			//ViewData["backyards"] = backyards;
-			//ViewData["livingrooms"] = largeLivingRooms;
-			//ViewData["kitchensets"] = KitchenSets;
+            ViewData["mostpicks"] = mostpicks;
+            ViewData["backyards"] = backyards;
+            ViewData["livingrooms"] = largeLivingRooms;
+            ViewData["kitchensets"] = KitchenSets;
 
-			//var first_mostpicks = mostpicks.FirstOrDefault();
-			//var first_backyard = backyards.FirstOrDefault();
-   //         ViewData["first_mostpicks"] = first_mostpicks;
-			//ViewData["first_backyards"] = first_backyard;
+            var first_mostpicks = mostpicks.FirstOrDefault();
+            var first_backyard = backyards.FirstOrDefault();
+            ViewData["first_mostpicks"] = first_mostpicks;
+            ViewData["first_backyards"] = first_backyard;
 
             return View(category);
         }
