@@ -21,17 +21,18 @@
 						<h3 class="mb-4 text-center">Create an account</h3>
 
 						<!--Sign uP Form-->
-						<form action="#" class="signin-form">
+						<form action="@Url.Action("Signup", "Register")" method="post" class="signin-form">
 							@Html.AntiForgeryToken()
 							<div class="form-group">
-								@*<input type="text" class="form-control" placeholder="Full name" required>*@
+								 
 								@Html.TextBoxFor(model => model.FullName, new { @class = "form-control", placeholder = "Full name", required = "required" })
 							</div>
 							<div class="form-group">
-								<input type="email" class="form-control" placeholder="Email" required>
+						 
+								@Html.TextBoxFor(model => model.Email, new { @class = "form-control", placeholder = "Email", required = "required" })
 							</div>
 							<div class="form-group">
-								<input id="password-field" type="password" class="form-control" placeholder="Password" required>
+								@Html.TextBoxFor(model => model.Password, new { @class = "form-control", placeholder = "password", required = "required" })
 								<span toggle="#password-field" class="fa fa-fw fa-eye field-icon toggle-password"></span>
 							</div>
 							<div class="form-group">

@@ -8,9 +8,9 @@ namespace Hotel.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly IReader _reader;
+        private readonly IFileHandler _reader;
 
-        public HomeController(ILogger<HomeController> logger, IReader reader)
+        public HomeController(ILogger<HomeController> logger, IFileHandler reader)
         {
             _logger = logger;
             _reader = reader;

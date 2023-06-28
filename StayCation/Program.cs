@@ -5,7 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddScoped<IReader, Reader>();
+builder.Services.AddSingleton<IFileHandler, FileHandler>();
 
 var app = builder.Build();
 

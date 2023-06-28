@@ -1,9 +1,14 @@
-﻿namespace Hotel.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Hotel.Models
 {
     public class User
-    { 
-        public string FullName { set; get; }
-        public string Email { set; get; }
-        public string Password { set; get; }
+    {
+        [Required]
+        public string? FullName { get; set; }
+        [Required]
+        public string? Email { get; set; }
+        [Required]
+        public string? Password { get; set; }
     }
 }

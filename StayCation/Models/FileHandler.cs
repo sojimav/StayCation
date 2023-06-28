@@ -2,7 +2,7 @@
 
 namespace Hotel.Models
 {
-    public class Reader : IReader
+    public class FileHandler : IFileHandler
     {
         public  List<Property> ReadFromPropertyFile(string filepath)
         {
@@ -32,6 +32,17 @@ namespace Hotel.Models
             }
 
             return PropertyFile;
+        }
+
+
+
+        public void WriteToFile(string filepath, User user)
+        {
+            using(StreamWriter writer = new StreamWriter(filepath))
+            {
+                writer.WriteLine($"{user.FullName} | {user.Email} | {user.Password}");
+
+            }
         }
     }
 }
