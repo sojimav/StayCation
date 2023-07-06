@@ -38,7 +38,7 @@ namespace Hotel.Models
 
         public void WriteToFile(string filepath, User user)
         {
-            using(StreamWriter writer = new StreamWriter(filepath))
+            using(StreamWriter writer = new StreamWriter(filepath, true))
             {
                 writer.WriteLine($"{user.FullName} | {user.Email} | {user.Password}");
 

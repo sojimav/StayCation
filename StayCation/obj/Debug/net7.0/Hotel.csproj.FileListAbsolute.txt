@@ -126,3 +126,7 @@ C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\obj\Debug\net7.0\refint\
 C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\obj\Debug\net7.0\Hotel.pdb
 C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\obj\Debug\net7.0\Hotel.genruntimeconfig.cache
 C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\obj\Debug\net7.0\ref\Hotel.dll
+C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\obj\Debug\net7.0\Hotel.csproj.CopyComplete
+C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\bin\Debug\net7.0\web.config
