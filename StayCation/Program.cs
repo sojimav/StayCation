@@ -1,11 +1,12 @@
+using Hotel.Helpers;
 using Hotel.Interface;
-using Hotel.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddSingleton<IFileHandler, FileHandler>();
+builder.Services.AddScoped<IFileHandler, FileHandler>();
+builder.Services.AddScoped<IDataHandler, DataHandler>(placeHolder => new DataHandler("Source = localHost; Database = HotelDB; Integrated Security = true"));
 
 var app = builder.Build();
 

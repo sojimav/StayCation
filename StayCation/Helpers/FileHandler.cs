@@ -1,10 +1,11 @@
 ﻿using Hotel.Interface;
+using Hotel.Models;
 
-namespace Hotel.Models
+namespace Hotel.Helpers
 {
     public class FileHandler : IFileHandler
     {
-        public  List<Property> ReadFromPropertyFile(string filepath)
+        public List<Property> ReadFromPropertyFile(string filepath)
         {
             var PropertyFile = new List<Property>();
             using (StreamReader reader = new StreamReader(filepath))
@@ -38,7 +39,7 @@ namespace Hotel.Models
 
         public void WriteToFile(string filepath, User user)
         {
-            using(StreamWriter writer = new StreamWriter(filepath, true))
+            using (StreamWriter writer = new StreamWriter(filepath, true))
             {
                 writer.WriteLine($"{user.FullName} | {user.Email} | {user.Password}");
 
