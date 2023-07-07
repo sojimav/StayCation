@@ -1,0 +1,6 @@
+C:\Users\Decagon\OneDrive\Desktop\StayCation\HotelDB\bin\Debug\HotelDB.dacpac
+C:\Users\Decagon\OneDrive\Desktop\StayCation\HotelDB\bin\Debug\HotelDB.dll
+C:\Users\Decagon\OneDrive\Desktop\StayCation\HotelDB\bin\Debug\HotelDB.pdb
+C:\Users\Decagon\OneDrive\Desktop\StayCation\HotelDB\obj\Debug\HotelDB.sqlproj.AssemblyReference.cache
+C:\Users\Decagon\OneDrive\Desktop\StayCation\HotelDB\obj\Debug\HotelDB.dll
+C:\Users\Decagon\OneDrive\Desktop\StayCation\HotelDB\obj\Debug\HotelDB.pdb

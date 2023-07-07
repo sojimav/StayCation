@@ -79,7 +79,7 @@
     </section><!-- End About Section -->
 
 
-
+         <!-----------Please Note that the fields in the Category model receives information from the SQL database---------!>
 
     <!-- ======= Most picks ======= -->
     <section id="steps" class="steps section-bg">
@@ -93,21 +93,21 @@
         <div style="display:flex;flex-direction:row;justify-content:space-around">
 
             <div style="position:relative;" data-aos="fade-in" >
-                <img src="~/img/new/@first_mostpicks.Image" class="img-fluid" alt="" width="inherit" height="inherit" style="border-radius:20px;" data-aos="fade-in">
-                <span style="position:absolute; bottom:10px; left:10px; background-color:white; padding:5px 10px; border-radius:10px; color:black; font-weight:bold;">@first_mostpicks.NameOfProp,@first_mostpicks.Location,Indonesia</span>
-                <span style="position:absolute; top:10px; right:10px; background-color:deeppink; padding:5px 10px; border-radius:10px; color:white; font-weight:bold;">$@first_mostpicks.Price per night</span>
+                <img src="@Model.MostPicks[0].Image" class="img-fluid" alt="" width="inherit" height="inherit" style="border-radius:20px;" data-aos="fade-in">
+                <span style="position:absolute; bottom:10px; left:10px; background-color:white; padding:5px 10px; border-radius:10px; color:black; font-weight:bold;">@Model.MostPicks[0].NameOfProp,@Model.MostPicks[0].Location,Indonesia</span>
+                <span style="position:absolute; top:10px; right:10px; background-color:deeppink; padding:5px 10px; border-radius:10px; color:white; font-weight:bold;">$@Model.MostPicks[0].Price per night</span>
             </div> 
             
             
             <div class="col-8 row no-gutters">
 
-            @if(mostpicks != null)
+            @if(Model.MostPicks != null)
             {
-                @foreach(var property in mostpicks)
+                @foreach(var property in Model.MostPicks)
                 {
                     
          
-                        @if(property == first_mostpicks )
+                        @if(property == Model.MostPicks[0])
                         {
                             continue;
                         }
@@ -116,7 +116,7 @@
                         
                              <div class="col-lg-6 col-md-6" data-aos="fade-in">
                                 <div style="position:relative;">
-                                    <img src="~/img/new/@property.Image" class="img-fluid" alt="" width="inherit" height="inherit" style="border-radius:20px;" data-aos="fade-in">
+                                    <img src="@property.Image" class="img-fluid" alt="" width="inherit" height="inherit" style="border-radius:20px;" data-aos="fade-in">
                                     <span style="position:absolute; bottom:10px; left:10px; background-color:white; padding:5px 10px; border-radius:10px; color:black; font-weight:bold;">@property.NameOfProp,@property.Location, Indonesia</span>
                                     <span style="position:absolute; top:10px; right:10px; background-color:deeppink; padding:5px 10px; border-radius:10px; color:white; font-weight:bold;">$@property.Price per night</span>
                                 </div>
@@ -141,7 +141,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h4>@backyards[0].Group</h4>
+                <h4>@Model.Backyards[0].Group</h4>
             </div>
         </div>
 
@@ -150,12 +150,12 @@
 
           <div class=" row no-gutters">
 
-                @foreach(var item in backyards)
+                @foreach(var item in Model.Backyards)
                 {
                     
                     <div class="col-lg-3 col-md-6" data-aos="fade-left" data-aos-delay="100">
                         <div style="position:relative;">
-                            <img src="~/img/new/@item.Image" class="img-fluid" alt="" style="border-radius:20px;height:30vh;width:250vw" data-aos="fade-in">
+                            <img src= "@item.Image" class="img-fluid" alt="" style="border-radius:20px;height:30vh;width:250vw" data-aos="fade-in">
 
                             @if (item.Popularity == "Popular choice")
                             {
@@ -180,7 +180,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h4>@largeLivingRooms[0].Group</h4>
+                <h4>@Model.LivingRooms[0].Group</h4>
             </div>
         </div>
 
@@ -189,14 +189,14 @@
 
             <div class=" row no-gutters">
                 
-                @foreach(var item in largeLivingRooms)
+                @foreach(var item in Model.LivingRooms)
                 {
                     <div class="col-lg-3 col-md-6 position-relative" data-aos="fade-right" data-aos-delay="100">
-                        <img src="~/img/new/@item.Image" class="img-fluid" alt="" width="inherit" height="inherit" style=" border-radius:20px;height:30vh;width:250vw;" data-aos="fade-in">
+                        <img src="@item.Image" class="img-fluid" alt="" width="inherit" height="inherit" style=" border-radius:20px;height:30vh;width:250vw;" data-aos="fade-in">
 
                         @if (item.Popularity == "Popular choice")
                         {
-                      <span style="position:absolute; top:10px; right:10px; background-color:deeppink; padding:5px 10px; border-radius:10px; color:white; font-weight:bold;">@item.Popularity</span>
+                          <span style="position:absolute; top:10px; right:10px; background-color:deeppink; padding:5px 10px; border-radius:10px; color:white; font-weight:bold;">@item.Popularity</span>
                            
                         }
 
@@ -220,7 +220,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h4>@kitchenSets[0].Group</h4>
+                <h4>@Model.KitchenSets[0].Group</h4>
             </div>
         </div>
 
@@ -229,10 +229,10 @@
 
             <div class=" row no-gutters">
 
-                @foreach(var item in kitchenSets)
+                @foreach(var item in Model.KitchenSets)
                 {
                     <div class="col-lg-3 col-md-6 position-relative" data-aos="fade-right" data-aos-delay="100">
-                        <img src="~/img/new/@item.Image" class="img-fluid" alt="" width="inherit" height="inherit" style=" border-radius:20px;height:30vh;width:250vw;" data-aos="fade-in">
+                        <img src="@item.Image" class="img-fluid" alt="" width="inherit" height="inherit" style=" border-radius:20px;height:30vh;width:250vw;" data-aos="fade-in">
 
                         @if(item.Popularity == "Popular choice")
                         {

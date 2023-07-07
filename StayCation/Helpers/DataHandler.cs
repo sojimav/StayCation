@@ -35,7 +35,15 @@ namespace Hotel.Helpers
 								object columnValue = reader.GetValue(i);
 
 								// Use reflection to set the property value on the model
-								typeof(T).GetProperty(columnName)?.SetValue(model, columnValue);
+								if(columnValue != DBNull.Value)
+								{
+									typeof(T).GetProperty(columnName)?.SetValue(model, columnValue);
+								}
+								else
+								{
+									typeof(T).GetProperty(columnName)?.SetValue(model, string.Empty);
+								}
+								
 							}
 
 							result.Add(model);

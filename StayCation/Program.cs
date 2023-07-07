@@ -3,11 +3,11 @@ using Hotel.Interface;
 
 
 var builder = WebApplication.CreateBuilder(args);
-
+/*Data Source=LAPTOP-LPLOFKEO;Integrated Security=True;Persist Security Info=False;Pooling=False;Multiple Active Result Sets=False;Connect Timeout=60;Encrypt=False;Trust Server Certificate=False*/
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IFileHandler, FileHandler>();
-builder.Services.AddScoped<IDataHandler, DataHandler>(placeHolder => new DataHandler("Data source=localhost;DATABASE=HotelDB;Integrated Security=False"));
+builder.Services.AddScoped<IDataHandler, DataHandler>(placeHolder => new DataHandler("Data Source=localhost;DATABASE=HotelDB;Integrated Security=True"));
 
 var app = builder.Build();
 
