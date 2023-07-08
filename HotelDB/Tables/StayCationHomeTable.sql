@@ -1,6 +1,5 @@
 ﻿CREATE TABLE  dbo.StayCationHomeTable
 (
-	
     [Group] varchar(200) NOT NULL,
 	[Image] varchar(200) NOT NULL,
 	[Price] varchar(50) NOT NULL,

@@ -6,6 +6,6 @@ CREATE PROCEDURE InsertUser
     @Password VARCHAR(100)
 AS
 BEGIN
-    INSERT INTO dbo.RegisterUserTable ([FullName], [Email], [Password])
-    VALUES (@FullName, @Email, @Password)
+    INSERT INTO dbo.RegisterUserTable ( [FullName], [Email], [Password])
+    VALUES ( @FullName, @Email, @Password)
 END

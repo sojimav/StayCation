@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [dbo].[RegisterUserTable]
 (
-	[Id] INT NOT NULL PRIMARY KEY IDENTITY (1,1),
+     [id] INT PRIMARY KEY IDENTITY,
 	[FullName] VARCHAR(100) NOT NULL,
 	[Email] VARCHAR(100) NOT NULL,
 	[Password] VARCHAR(100) NOT NULL

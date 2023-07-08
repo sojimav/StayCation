@@ -5,7 +5,15 @@ namespace Hotel.Models
 {
     public class User
     {
-      
+		public User(int id, string? fullName, string? email, string? password)
+		{
+			Id = id;
+			FullName = fullName;
+			Email = email;
+			Password = password;
+		}
+
+		public int Id { get; set; } 
 
         [Required]
         public string? FullName { get;  set; }

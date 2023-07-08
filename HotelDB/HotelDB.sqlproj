@@ -64,6 +64,7 @@
     <Build Include="StoredProcedures\RegisteredUsersProcedure.sql" />
     <Build Include="StoredProcedures\StayCationHomeProcedure.sql" />
     <Build Include="StoredProcedures\FetchUserDetails.sql" />
+    <Build Include="StoredProcedures\Login.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Data\StayCationPopulate.sql" />

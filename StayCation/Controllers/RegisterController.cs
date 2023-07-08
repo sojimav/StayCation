@@ -1,4 +1,5 @@
-﻿using Hotel.Interface;
+﻿using Hotel.Helpers;
+using Hotel.Interface;
 using Hotel.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Principal;
@@ -18,37 +19,44 @@ namespace Hotel.Controllers
 
 
         public IActionResult Login()
-        {
-            return View();
+        {                     
+            if (HttpContext.Request.Method == "POST")
+            {          
+                List<User> propertiesfromSQL = _handler.ReadFromAnySqlTable("FetchUserDetails", () => new User(0, "", "", ""));
 
-            //_handler.ReadFromAnySqlTable();
-        }
+				string email = HttpContext.Request.Form["Email"]!;
+				string password = HttpContext.Request.Form["Password"]!;
+
+				var valid = propertiesfromSQL.FirstOrDefault(row => row.Password.Trim() == password.Trim() && row.Email.Trim() == email.Trim());
+                if (valid != null)
+                {
+					return RedirectToAction("Index", "Home");
+				}			
+			}
+
+			     return View();
+
+			//_handler.ReadFromAnySqlTable();
+		}
 
 
 		public IActionResult Signup()
-		{
-            if(HttpContext.Request.Method == "GET")
-            {
-                return View();
-            }
-            else if(HttpContext.Request.Method == "POST")
+		{                                
+             if(HttpContext.Request.Method == "POST")
             {
                 string fullName = HttpContext.Request.Form["FullName"]!;
                 string email = HttpContext.Request.Form["Email"]!;
                 string password = HttpContext.Request.Form["Password"]!;
-                var user = new User { FullName = fullName, Email = email, Password = password };
+                var user = new User (id:0, fullName, email, password);
+                _handler.WriteToTable("InsertUser", user);
 
-                _handler.WriteToTable("InsertUser", user); 
-            }
+				return RedirectToAction("Login");
 
-             return RedirectToAction("Login");
+			}
+			    return View();
+			//_writer.WriteToFile("Users.txt", user);
 
-            //_writer.WriteToFile("Users.txt", user);
-
-        }
-
-
-
+		}
 
 
 	}

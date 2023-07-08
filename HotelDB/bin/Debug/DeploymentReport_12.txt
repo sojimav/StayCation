@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       unnamed constraint on [dbo].[RegisterUserTable]
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[RegisterUserTable].[Id] is being dropped, data loss could occur.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[RegisterUserTable] (Primary Key)
+     Alter
+       [dbo].[RegisterUserTable] (Table)
+
+** Supporting actions
+     Refresh
+       [dbo].[FetchUserDetails] (Procedure)
+       [dbo].[InsertUser] (Procedure)
+       [dbo].[Login] (Procedure)
+
+The column [dbo].[RegisterUserTable].[Id] is being dropped, data loss could occur.
+If this deployment is executed, changes to [dbo].[RegisterUserTable] might introduce run-time errors in [dbo].[RegisteredUsersProcedure].
+
