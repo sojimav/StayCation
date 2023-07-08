@@ -4,3 +4,7 @@ C:\Users\Decagon\OneDrive\Desktop\StayCation\HotelDB\bin\Debug\HotelDB.pdb
 C:\Users\Decagon\OneDrive\Desktop\StayCation\HotelDB\obj\Debug\HotelDB.sqlproj.AssemblyReference.cache
 C:\Users\Decagon\OneDrive\Desktop\StayCation\HotelDB\obj\Debug\HotelDB.dll
 C:\Users\Decagon\OneDrive\Desktop\StayCation\HotelDB\obj\Debug\HotelDB.pdb
+C:\Users\Decagon\OneDrive\Desktop\StayCation\HotelDB\obj\Debug\Model.xml
+C:\Users\Decagon\OneDrive\Desktop\StayCation\HotelDB\obj\Debug\refactor.xml
+C:\Users\Decagon\OneDrive\Desktop\StayCation\HotelDB\obj\Debug\postdeploy.sql
+C:\Users\Decagon\OneDrive\Desktop\StayCation\HotelDB\obj\Debug\predeploy.sql

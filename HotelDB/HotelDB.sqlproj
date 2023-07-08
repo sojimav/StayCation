@@ -9,8 +9,7 @@
     <ProjectGuid>{d8bd3d16-321b-4a84-90b0-56ca5e9eb1e6}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql150DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
-    <RootPath>
-    </RootPath>
+    <RootPath />
     <RootNamespace>HotelDB</RootNamespace>
     <AssemblyName>HotelDB</AssemblyName>
     <ModelCollation>1033, CI</ModelCollation>
@@ -48,7 +47,6 @@
   </PropertyGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">11.0</VisualStudioVersion>
-    <!-- Default to the v11.0 targets path if the targets file for the current VS version is not found -->
     <SSDTExists Condition="Exists('$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets')">True</SSDTExists>
     <VisualStudioVersion Condition="'$(SSDTExists)' == ''">11.0</VisualStudioVersion>
   </PropertyGroup>
@@ -65,6 +63,7 @@
     <Build Include="Tables\RegisterUserTable.sql" />
     <Build Include="StoredProcedures\RegisteredUsersProcedure.sql" />
     <Build Include="StoredProcedures\StayCationHomeProcedure.sql" />
+    <Build Include="StoredProcedures\FetchUserDetails.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Data\StayCationPopulate.sql" />

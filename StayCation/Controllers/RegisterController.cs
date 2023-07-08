@@ -20,6 +20,8 @@ namespace Hotel.Controllers
         public IActionResult Login()
         {
             return View();
+
+            //_handler.ReadFromAnySqlTable();
         }
 
 
