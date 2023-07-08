@@ -8,10 +8,12 @@ namespace Hotel.Controllers
     public class RegisterController : Controller
     {
         private readonly IFileHandler _writer;
+        private readonly IDataHandler _handler;
 
-        public RegisterController(IFileHandler writer)
+        public RegisterController(IFileHandler writer, IDataHandler handler)
         {
             _writer = writer;
+            _handler = handler;
         }
 
 
@@ -21,21 +23,27 @@ namespace Hotel.Controllers
         }
 
 
-        public IActionResult Signup()
-        {
-			return View();
-		}
-
-
-
-        [HttpPost]
-		public IActionResult Signup( User user)
+		public IActionResult Signup()
 		{
-    
-            _writer.WriteToFile("Users.txt", user);
+            if(HttpContext.Request.Method == "GET")
+            {
+                return View();
+            }
+            else if(HttpContext.Request.Method == "POST")
+            {
+                string fullName = HttpContext.Request.Form["FullName"]!;
+                string email = HttpContext.Request.Form["Email"]!;
+                string password = HttpContext.Request.Form["Password"]!;
+                var user = new User { FullName = fullName, Email = email, Password = password };
 
-            return RedirectToAction("Login");
-		}
+                _handler.WriteToTable("InsertUser", user); 
+            }
+
+             return RedirectToAction("Login");
+
+            //_writer.WriteToFile("Users.txt", user);
+
+        }
 
 
 

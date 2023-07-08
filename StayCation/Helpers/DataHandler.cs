@@ -2,6 +2,7 @@
 using System.Data;
 using Hotel.Interface;
 using System.Reflection.Metadata.Ecma335;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory.Database;
 
 namespace Hotel.Helpers
 {
@@ -58,17 +59,32 @@ namespace Hotel.Helpers
 
 
 
-		public void WriteToTable()
+		public void WriteToTable<T>(string storedProcedure, T model) where T : class
 		{
-			using(SqlConnection Tableconnection = new SqlConnection())
+			using(SqlConnection Tableconnection = new SqlConnection(Connection))
 			{
+				
 				Tableconnection.Open();
 
-				using(SqlCommand command= Tableconnection.CreateCommand())
+                // Get the properties of the model object
+                var properties = typeof(T).GetProperties();
+
+                using (SqlCommand command= Tableconnection.CreateCommand())
 				{
-				  
-				}
-			}
+				  command.CommandType = CommandType.StoredProcedure;
+				  command.CommandText = storedProcedure;
+
+                    foreach (var property in properties)
+                    {
+                        command.Parameters.AddWithValue("@" + property.Name, property.GetValue(model));
+                    }
+
+                    // Execute the INSERT statement
+                    command.ExecuteNonQuery();
+                }
+
+                Tableconnection.Close();
+            }
 		}
 
 	} 

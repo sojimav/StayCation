@@ -130,8 +130,6 @@ C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\bin\Debug\net7.0\Microso
 C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\obj\Debug\net7.0\Hotel.csproj.CopyComplete
 C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\bin\Debug\net7.0\web.config
-C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\bin\Debug\net7.0\HotelDB.dll
-C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\bin\Debug\net7.0\HotelDB.pdb
 C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\bin\Debug\net7.0\System.Data.SqlClient.dll
 C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
 C:\Users\Decagon\OneDrive\Desktop\StayCation\StayCation\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
