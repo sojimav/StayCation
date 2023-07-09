@@ -8,10 +8,10 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Hotel.Helpers
 {
-	public class DataHandler : IDataHandler 
+	public class SqlDataHandler : IDataHandler 
 	{
 		public string Connection { get;  private set; }
-		public DataHandler(string connection)
+		public SqlDataHandler(string connection)
 		{
 			Connection = connection;
 		}

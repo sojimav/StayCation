@@ -7,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IFileHandler, FileHandler>();
-builder.Services.AddScoped<IDataHandler, DataHandler>(placeHolder => new DataHandler("Data Source=localhost;DATABASE=HotelDB;Integrated Security=True"));
+builder.Services.AddScoped<IDataHandler, SqlDataHandler>(placeHolder => new SqlDataHandler("Data Source=localhost;DATABASE=HotelDB;Integrated Security=True"));
 
 var app = builder.Build();
 

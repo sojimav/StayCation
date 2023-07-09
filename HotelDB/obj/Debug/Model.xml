@@ -112,8 +112,8 @@
 			<Property Name="BodyScript">
 				<Value><![CDATA[
 BEGIN
-    INSERT INTO dbo.RegisterUserTable ([FullName], [Email], [Password])
-    VALUES (@FullName, @Email, @Password)
+    INSERT INTO dbo.RegisterUserTable ( [FullName], [Email], [Password])
+    VALUES ( @FullName, @Email, @Password)
 END]]></Value>
 			</Property>
 			<Property Name="IsAnsiNullsOn" Value="True" />
@@ -197,7 +197,7 @@ END]]></Value>
 			</Relationship>
 			<Annotation Type="SysCommentsObjectAnnotation">
 				<Property Name="CreateOffset" Value="2" />
-				<Property Name="Length" Value="246" />
+				<Property Name="Length" Value="248" />
 				<Property Name="StartLine" Value="1" />
 				<Property Name="StartColumn" Value="1" />
 				<Property Name="HeaderContents" Value="&#xD;&#xA;CREATE PROCEDURE InsertUser&#xD;&#xA;&#xD;&#xA;    @FullName VARCHAR(100),&#xD;&#xA;    @Email VARCHAR(100),&#xD;&#xA;    @Password VARCHAR(100)&#xD;&#xA;AS" />

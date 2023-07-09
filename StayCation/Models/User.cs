@@ -13,17 +13,19 @@ namespace Hotel.Models
 			Password = password;
 		}
 
-		public int Id { get; set; } 
+		public int Id { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "full name is Required!")]
+        [RegularExpression(@"^[A-Z][a-z]{2,29}( [A-Z][a-z]{2,29})+$", ErrorMessage = "Enter a Valid Name Format! e.g Ajibade Victor")]
         public string? FullName { get;  set; }
 
         [Required]
         [EmailAddress]
+        //[RegularExpression(@"^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$", ErrorMessage = "Invalid email format!")]
         public string? Email { get;  set; }
 
         [Required]
-        [DataType(DataType.Password)]
+        [RegularExpression("^(?=.*\\d)(?=.*[@$!%*#?&])[A-Za-z\\d@$!%*#?&]{8,}$", ErrorMessage = "Password must have a special charater and a digt! e.g @adesoji1")]
         public string? Password { get; set; }
     }
 

@@ -41,22 +41,27 @@ namespace Hotel.Controllers
 
 
 		public IActionResult Signup()
-		{                                
-             if(HttpContext.Request.Method == "POST")
-            {
-                string fullName = HttpContext.Request.Form["FullName"]!;
-                string email = HttpContext.Request.Form["Email"]!;
-                string password = HttpContext.Request.Form["Password"]!;
-                var user = new User (id:0, fullName, email, password);
-                _handler.WriteToTable("InsertUser", user);
+		{
+			if (HttpContext.Request.Method == "POST")
+			{
+				string fullName = HttpContext.Request.Form["FullName"]!;
+				string email = HttpContext.Request.Form["Email"]!;
+				string password = HttpContext.Request.Form["Password"]!;
+				var user = new User(id: 0, fullName, email, password);
 
+				// Manually trigger model validation
+				if (!TryValidateModel(user))
+				{
+					return View();
+				}
+
+				_handler.WriteToTable("InsertUser", user);
 				return RedirectToAction("Login");
-
 			}
-			    return View();
-			//_writer.WriteToFile("Users.txt", user);
 
+			return View();
 		}
+
 
 
 	}
